@@ -1,2 +1,2 @@
-# AI-shared-projects
-AI related projects I shared on social media
+# AI-share-projects
+All the PET projects I shared on social media
